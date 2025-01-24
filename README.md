@@ -48,5 +48,4 @@ URL: /memos/{id}
 
 #   의존성
 이 API는 스프링 프레임워크 의존성을 사용합니다
-# memo-sql
-# memo-sql
+
